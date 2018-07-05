@@ -117,3 +117,6 @@ SELECT Count(*) From Invoice WHERE BiillingState in ('CA', 'TX', 'AZ');
 SELECT AVG(Total) From Invoice;
 8
 SELECT SUM(Total) FROM Invoice;
+
+
+--hey i finished!
